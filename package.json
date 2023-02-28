@@ -1,0 +1,16 @@
+{
+  "name": "challenge1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "author": "marta",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.13.1",
+    "live-server": "^1.2.2",
+    "nu-html-checker": "^0.1.0"
+  }
+}
